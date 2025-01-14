@@ -1,0 +1,55 @@
+1. Highlight Movies Based on Budget
+
+"Use a rule to highlight rows where the budget exceeds a certain value (e.g., greater than $7,000,000)."
+
+2. Color Code by Genre
+
+"Assign different colors for different genres (e.g., Adventure in green, Comedy in blue)."
+
+3. Highlight High-Grossing Movies
+
+"Highlight movies where the gross revenue exceeds a certain threshold, such as $60,000,000."
+
+4. Score-Based Gradient
+
+"Apply a color gradient based on the ""score"" column. Higher scores can be in green, and lower scores can be in red."
+
+5. Highlight by Rating
+
+"Use different colors for different ratings (e.g., ""R"" in red, ""PG-13"" in yellow)."
+
+6. Released Year Format
+
+Highlight all movies released in 1986 or earlier with a specific color.
+
+7. Director-Based Highlight
+
+"Highlight rows where the director is ""John Hughes."""
+
+8. Runtime Analysis
+
+Highlight movies with a runtime greater than 100 minutes or less than 90 minutes.
+
+9. Votes Threshold
+
+"Highlight movies with votes exceeding 250,000 to identify popular ones."
+
+10. Profit Margin
+
+Add a calculated column for profit (Gross - Budget) and apply conditional formatting to highlight movies with higher profits.
+
+11. Writer-Based Highlight
+
+"Highlight movies written by a specific writer (e.g., ""Stephen King"")."
+
+12. Duplicate Check
+
+"Highlight duplicate entries in the ""company"" or ""star"" columns."
+
+13. Top Performers
+
+Highlight the movie with the highest gross revenue or the highest score.
+
+14. Released Date in Specific Month
+
+"Highlight movies released in a specific month (e.g., June)."
